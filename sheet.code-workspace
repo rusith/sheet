@@ -8,5 +8,9 @@
 			"name": "Root"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"github.copilot.enable": {
+			"*": false
+		}
+	}
 }
