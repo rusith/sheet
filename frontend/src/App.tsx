@@ -5,6 +5,7 @@ const App: Component = () => {
   return (
     <div class="text-4xl text-green-700 text-center py-20">
       <Cell />
+      <Cell />
     </div>
   );
 };
